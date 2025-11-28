@@ -1,0 +1,1 @@
+ C:\\Users\\prata\\OneDrive\\Desktop\\StreeSkill\\.dart_tool\\flutter_build\\0ad6ca34825af1aa8d6265f3a208d784\\native_assets.json: 
