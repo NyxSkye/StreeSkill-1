@@ -8,11 +8,12 @@
 
 *A mobile learning platform designed to empower women through accessible, high-quality skill development*
 
-</div>
 
 15-Minute Micro-Courses for Homemakers
 
 StreeSkill is a learning platform that provides short, reel-style vertical videos (15–30 minutes) to help homemakers learn practical skills that can generate income.
+
+</div>
 
 ---
 
